@@ -13,11 +13,11 @@ Etudiant en dernière année à l'ENSAE Paris et au M2 DataScience de l'Ecole po
 
 | Projet | Description | Tech | Statut |
 |--------|-------------|------|--------|
-| [NowCasting](https://github.com/tonusername/Nowcasting) | Prévision nowcasting temps réel (en cours), inspiré approches Banque de France. [web:38][web:43] | Python, ML Temps Série | 🔄 En cours |
+| [NowCasting](https://github.com/elyanrgn/Nowcasting_ENSAE) | Analyse de l'influence des médias sur le spread OAT/BUND | Python, ML Temps Série | 🔄 En cours |
 | [Replication de l'ECB WP No. 3138 (Trend-Cycle VAR) en Python](https://github.com/elyanrgn/ECB_WP3138_Replication) | Réplication fidèle d'un modèle de Trend Cycle VAR pour la décomposition des chocs macroéconomiques. | Python, Statsmodels | ✅ Terminé |
 | [Benchmark ML Commerce Extérieur](https://github.com/elyanrgn/Forecasting_French_Imports_Exports) | Comparaison de modèles ML pour prévision du commerce extérieur français. | Scikit-learn, XGBoost | ✅ Terminé |
 | [Estimation ABC](https://github.com/elyanrgn/ABC_alpha_stable_models) | Estimation de modèles $\alpha$ stable via approximate bayesian computation.| Python, JAX | ✅ Terminé |
-| [Réplication MAADDPG](https://github.com/tonusername/replication-maaddpg) | Implémentation Multi-Agent Deep Deterministic Policy Gradient pour RL multi-agents. [web:42] | TensorFlow/PyTorch | ✅ Terminé |
+| [Réplication MAADDPG](https://github.com/tonusername/replication-maaddpg) | Implémentation Multi-Agent Deep Deterministic Policy Gradient pour RL multi-agents.| TensorFlow/PyTorch | ✅ Terminé |
 
 
 **📫 Contact**  
