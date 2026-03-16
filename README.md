@@ -12,6 +12,7 @@ Etudiant en dernière année à l'ENSAE Paris et au M2 DataScience de l'Ecole po
 | Projet | Description | Tech | Statut |
 |--------|-------------|------|--------|
 | [NowCasting](https://github.com/elyanrgn/Nowcasting_ENSAE) | Analyse de l'influence des médias sur le spread OAT/BUND | Python, ML Temps Série | 🔄 En cours |
+| [Transfer Learning in Time Series](https://github.com/elyanrgn/Time-Series-Classification) | Analyse de l'effet du pré-entraînement IndPatchTST <br>*(Régression → Classification LSST)* | Python, PyTorch, Time Series | ✅ Terminé |
 | [Replication de l'ECB WP No. 3138 (Trend-Cycle VAR) en Python](https://github.com/elyanrgn/ECB_WP3138_Replication) | Réplication fidèle d'un modèle de Trend Cycle VAR pour la décomposition des chocs macroéconomiques. | Python, Statsmodels | ✅ Terminé |
 | [Benchmark ML Commerce Extérieur](https://github.com/elyanrgn/Forecasting_French_Imports_Exports) | Comparaison de modèles ML pour prévision du commerce extérieur français. | Scikit-learn, XGBoost | ✅ Terminé |
 | [Estimation ABC](https://github.com/elyanrgn/ABC_alpha_stable_models) | Estimation de modèles $\alpha$ stable via approximate bayesian computation.| Python, JAX | ✅ Terminé |
